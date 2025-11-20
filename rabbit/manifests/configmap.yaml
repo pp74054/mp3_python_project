@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap   
+metadata:
+  name: rabbitmq-config
+data:
+  PLACEHOLDER_KEY: PLACEHOLDER_VALUE
+
